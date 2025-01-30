@@ -1,2 +1,3 @@
 Practica en vivo
-Estoy puesto para git a todo vapor
+Estoy puesto para git a todo vapor (No me gusta esta referencia)
+En tiempo real trabajando con git
