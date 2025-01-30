@@ -1,3 +1,2 @@
 Practica en vivo
-Git es lo maximo
-Estoy puesto para git
+Estoy puesto para git a todo vapor
